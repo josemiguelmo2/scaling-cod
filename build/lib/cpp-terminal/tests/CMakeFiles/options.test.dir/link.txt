@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/options.test.dir/options.test.cpp.o  -o options.test  ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a -pthread 

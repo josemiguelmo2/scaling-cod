@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cout.dir/cout.cpp.o  -o cout  ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a -pthread 

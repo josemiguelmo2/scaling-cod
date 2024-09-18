@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/codespaces-blank/src/domain/Decryptor.cpp
+Decryptor.hpp
+-
+string
+-
+
+/workspaces/codespaces-blank/src/domain/Encryptor.cpp
+Encryptor.hpp
+-
+string
+-
+
+/workspaces/codespaces-blank/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+filesystem
+-
+memory
+-
+Encryptor.hpp
+-
+Decryptor.hpp
+-
+
+/workspaces/codespaces-blank/src/presentation/terminal.cpp
+

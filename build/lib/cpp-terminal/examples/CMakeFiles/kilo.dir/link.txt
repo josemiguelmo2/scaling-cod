@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kilo.dir/kilo.cpp.o  -o kilo  ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a ../cpp-terminal/libcpp-terminal.a ../cpp-terminal/private/libcpp-terminal-private.a -pthread 

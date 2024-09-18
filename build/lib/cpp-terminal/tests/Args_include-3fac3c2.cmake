@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/codespaces-blank/build/lib/cpp-terminal/tests/Args_tests-3fac3c2.cmake")
+  include("/workspaces/codespaces-blank/build/lib/cpp-terminal/tests/Args_tests-3fac3c2.cmake")
+else()
+  add_test(Args_NOT_BUILT-3fac3c2 Args_NOT_BUILT-3fac3c2)
+endif()

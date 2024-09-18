@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/codespaces-blank/build/lib/cpp-terminal/tests/exception.test_tests-b858cb2.cmake")
+  include("/workspaces/codespaces-blank/build/lib/cpp-terminal/tests/exception.test_tests-b858cb2.cmake")
+else()
+  add_test(exception.test_NOT_BUILT-b858cb2 exception.test_NOT_BUILT-b858cb2)
+endif()
